@@ -20,7 +20,7 @@ MathMind AI is an intelligent virtual math tutor that helps solve mathematical p
 ## 📸 Screenshots
 
 
-<img src="https://github.com/ritikkumar55/MathMindAI/blob/main/img.png" width="1000" height="700" />
+<img src="https://github.com/ritikkumar55/MathMindAI/blob/main/img.png" width="1000" height="800" />
 
 ## 📦 Installation
 1. Clone the repository:
